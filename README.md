@@ -1,1 +1,11 @@
-# multi-event-management-platfor
+
+  # Multi-Event Management Platform
+
+  This is a code bundle for Multi-Event Management Platform. The original project is available at https://www.figma.com/design/mMAl3scahESEI0n9RygThx/Multi-Event-Management-Platform.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
